@@ -1,5 +1,9 @@
 # Seminar given at Tohoku university on December 5th, 2023 
 
+Workshop name: Pathways Toward an Integrated Understanding of the Marine Environment and Marine Ecosystems
+
+Venue: TOKYO ELECTRON House of Creativity 3F, Lecture Theater, Katahira Campus, Tohoku University
+
 ## The species concept in environmental and genetic studies: the case of the zooplankton _Oikopleura dioica_ going from global to cryptic.
 
 ## Current repository:
