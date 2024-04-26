@@ -1,19 +1,35 @@
-# Seminar given at Tohoku university on December 5th, 2023 
+Oral and poster presentation at the 2024 OIST-CNRS workshop in Okinawa
+======================================================================
 
-Workshop name: Pathways Toward an Integrated Understanding of the Marine Environment and Marine Ecosystems
+<https://groups.oist.jp/ja/oist-cnrs-symposium>
 
-Venue: TOKYO ELECTRON House of Creativity 3F, Lecture Theater, Katahira Campus, Tohoku University
+Abstract
+--------
 
-https://www.tfc.tohoku.ac.jp/event/4299.html
+Genome scrambling in the Tree of Life.
 
-## The species concept in environmental and genetic studies: the case of the zooplankton _Oikopleura dioica_ going from global to cryptic.
+We recently reported that the zooplankton Oikopleura dioica comprises multiple
+cryptic species for which no morphological markers could be found, but that
+dramatically differ in gene order. We showed that process of “scrambling” their
+genomes is faster than in Ciona (another tunicate), Drosophila or
+Caenorhabditis (invertebrates which have in common with Oikopleura a small
+genome size and a short life cycle). Is Oikopleura doica's genome exceptional
+in comparison to all other living beings? I am testing this hypothesis with a
+pairwise genome comparison screen in clades distributed across the whole Tree
+of Life. In this poster, I will report my preliminary results with a focus on
+marine organisms.
 
-## Current repository:
+Poster presentations on April 23–25 and flash talk on April 25.
 
- - https://github.com/oist/plessy_2023_OIST_Tohoku-U
+Poster was identical to <https://github.com/oist/plessy_Poster_2022_MBSJ_Chiba>.
+
+## Flash talk's current repository:
+
+ - https://github.com/oist/plessy_Presentation_2024_OIST-CNRS
 
 ## Derived from
 
+ - https://github.com/oist/plessy_2023_OIST_Tohoku-U
  - https://github.com/oist/plessy_2023_Osaka_University 
  - https://github.com/oist/plessy_Poster_2022_MBSJ_Chiba
  - https://github.com/oist/plessy_2022_11thITM_Kobe
@@ -23,6 +39,7 @@ https://www.tfc.tohoku.ac.jp/event/4299.html
 
 ## Talks:
 
+ - Seminar given at Tohoku university on December 5th, 2023 
  - Seminar at Osaka University on July 24th, 2023.
  - Department seminar at Konan University on Friday 18th, 2022.
  - [11th International Tunicate Meeting, July 14th, 2022](https://sites.google.com/view/11th-itm)
